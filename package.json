@@ -1,0 +1,12 @@
+{
+  "name": "healthcare-rss-backend",
+  "version": "1.0.0",
+  "description": "Secure backend for RSS feed management",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "test": "echo 'No tests yet'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
